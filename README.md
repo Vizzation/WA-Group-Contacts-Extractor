@@ -5,6 +5,8 @@ The icons used are simple placeholders and can be replaced easily.
 This extension should work with any Chromium-based browser.
 The process will be similar on any Chromium browser but I am only highlighting Google Chrome and Microsoft Edge as I use them daily.
 
+Open [Edge Addons](https://microsoftedge.microsoft.com/addons/detail/wa-group-contacts-extract/pkopoomjfajbmibjjdcjgmolkikhcfcj) and click "Get" button to install the extension.
+
 ## How to Use
 1. If you are using Microsoft Edge, Open `edge://extensions/`
    or  
